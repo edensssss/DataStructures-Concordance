@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ed977a1-a295-4cd2-bcda-549366a0d252" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1idVRHXeNBt2u7Pr05U5kkSDXIb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Niv\IdeaProjects\concordanceFinish" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Concordance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Concordance" />
+      <module name="concordanceFinish" />
+      <option name="PROGRAM_PARAMETERS" value="smallTextFile.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="PROGRAM_PARAMETERS" value="smallTextFile.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Concordance" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ed977a1-a295-4cd2-bcda-549366a0d252" name="Default Changelist" comment="" />
+      <created>1602237445483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602237445483</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="195" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602699065152">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="195" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1602699065152" />
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1602238633187">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1602238633187" />
+    <state width="435" height="466" key="DebuggerActiveHint" timestamp="1602694388673">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="435" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1602694388673" />
+    <state width="1323" height="106" key="GridCell.Tab.0.bottom" timestamp="1602699465143">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="106" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602699465143" />
+    <state width="1323" height="106" key="GridCell.Tab.0.center" timestamp="1602699465143">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="106" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602699465143" />
+    <state width="1323" height="106" key="GridCell.Tab.0.left" timestamp="1602699465143">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="106" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602699465143" />
+    <state width="1323" height="106" key="GridCell.Tab.0.right" timestamp="1602699465143">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="106" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602699465143" />
+    <state width="1323" height="154" key="GridCell.Tab.1.bottom" timestamp="1602698755273">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="154" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602698755273" />
+    <state width="1323" height="154" key="GridCell.Tab.1.center" timestamp="1602698755273">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="154" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1602698755273" />
+    <state width="1323" height="154" key="GridCell.Tab.1.left" timestamp="1602698755273">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="154" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1602698755273" />
+    <state width="1323" height="154" key="GridCell.Tab.1.right" timestamp="1602698755273">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="154" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1602698755273" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1602544110751">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1602544110751" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1602698676301">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1602698676301" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Concordance.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Concordance.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
